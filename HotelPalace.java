@@ -1,3 +1,9 @@
+/*
+	NAME:AMAAN SAJINA
+	DOC:01/02/2022
+	OBJECTIVE: Hotel menu
+*/
+
 import java.util.Scanner;
 public class HotelPalace
 {
